@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "273644dac5b6919c",
+    "type": "split",
+    "children": [
+      {
+        "id": "776fe0dc6edc53f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c143e0c9efa97863",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "听力/2.how-to-handle-a-Question&answer-session.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.how-to-handle-a-Question&answer-session"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9e7fa896756cc55f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e3ef2ba3952771c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7584f56eb36a14ef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "2fad56bba2079c66",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "47ea4279212279ec",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e22abb4da385eea2",
+    "type": "split",
+    "children": [
+      {
+        "id": "07f966575c59b2a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c63cf2ff1c60e566",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "听力/2.how-to-handle-a-Question&answer-session.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2.how-to-handle-a-Question&answer-session 的反向链接列表"
+            }
+          },
+          {
+            "id": "24e41968ba4f17e4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "听力/2.how-to-handle-a-Question&answer-session.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2.how-to-handle-a-Question&answer-session 的出链列表"
+            }
+          },
+          {
+            "id": "891c4bf80a62cef8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "1b1132461d569774",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "听力/2.how-to-handle-a-Question&answer-session.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "2.how-to-handle-a-Question&answer-session 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "c143e0c9efa97863",
+  "lastOpenFiles": []
+}
