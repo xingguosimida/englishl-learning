@@ -9,10 +9,10 @@ Do research
 
 Make a fortune
 Make a mistake
-Mkae a phone call
-Make an attampt
+Make a phone call
+Make an attempt
 
-Can you do me a favor? Please make a phone call to the ABC hotel, we need to make arrangments for the upcoming company event.
+Can you do me a favour? Please make a phone call to the ABC hotel, we need to make arrangements for the upcoming company event.
 
 
 
