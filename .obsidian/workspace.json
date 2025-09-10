@@ -18,8 +18,23 @@
               "icon": "lucide-image",
               "title": "英语动词语气总结"
             }
+          },
+          {
+            "id": "63eaca8f92194c9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中译英/3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,8 +182,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ae97028281c57040",
+  "active": "63eaca8f92194c9b",
   "lastOpenFiles": [
+    "中译英/3.md",
     "语法/语法体系/英语动词的时态.png",
     "语法/语法体系/6.虚拟语气.md",
     "语法/语法体系/英语动词语气总结.png",
